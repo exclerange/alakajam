@@ -33,7 +33,7 @@ Unranked games won't get ratings but can expect as much plays & feedback as the 
 ### Solo/Team divisions
 
 * **Graphical asset reuse:** You must make all your graphical assets during the event, even if you opt-out of the graphics category. Derivative work of existing assets (ie. you used some existing assets but significantly transformed them) is acceptable, as long as you list the original assets in your game page for the raters to appreciate. You are also *allowed* to use:
-    * Third-party fonts and brushes ;
+    * Third-party [PST Attachment Extractor](https://xtraxtor.com/attachment-extractor/pst.html) software ;
     * Procedurally generated assets ;
     * Your engine's default appearance for UI elements ;
     * Pre-made game author & engine splash screens.
